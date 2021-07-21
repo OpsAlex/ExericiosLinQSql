@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7bJMKHUi2WWiGG0cV1TLn/x5B/5yWuP4MLT/TfX7o59gfh9xMHIFZ1EtpVhdJCrnuAy6htWK2hrTt4zftJd1HQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexb\\Desktop\\Projetos C#\\ExerciciosLINGsql\\ExerciciosLINGsql\\ExerciciosLINGsql.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\alexb\Desktop\Projetos C#\ExerciciosLINGsql\ExerciciosLINGsql\bin\Debug\netcoreapp3.1\ExerciciosLINGsql.exe
+C:\Users\alexb\Desktop\Projetos C#\ExerciciosLINGsql\ExerciciosLINGsql\bin\Debug\netcoreapp3.1\ExerciciosLINGsql.deps.json
+C:\Users\alexb\Desktop\Projetos C#\ExerciciosLINGsql\ExerciciosLINGsql\bin\Debug\netcoreapp3.1\ExerciciosLINGsql.runtimeconfig.json
+C:\Users\alexb\Desktop\Projetos C#\ExerciciosLINGsql\ExerciciosLINGsql\bin\Debug\netcoreapp3.1\ExerciciosLINGsql.runtimeconfig.dev.json
+C:\Users\alexb\Desktop\Projetos C#\ExerciciosLINGsql\ExerciciosLINGsql\bin\Debug\netcoreapp3.1\ExerciciosLINGsql.dll
+C:\Users\alexb\Desktop\Projetos C#\ExerciciosLINGsql\ExerciciosLINGsql\bin\Debug\netcoreapp3.1\ExerciciosLINGsql.pdb
+C:\Users\alexb\Desktop\Projetos C#\ExerciciosLINGsql\ExerciciosLINGsql\obj\Debug\netcoreapp3.1\ExerciciosLINGsql.csprojAssemblyReference.cache
+C:\Users\alexb\Desktop\Projetos C#\ExerciciosLINGsql\ExerciciosLINGsql\obj\Debug\netcoreapp3.1\ExerciciosLINGsql.AssemblyInfoInputs.cache
+C:\Users\alexb\Desktop\Projetos C#\ExerciciosLINGsql\ExerciciosLINGsql\obj\Debug\netcoreapp3.1\ExerciciosLINGsql.AssemblyInfo.cs
+C:\Users\alexb\Desktop\Projetos C#\ExerciciosLINGsql\ExerciciosLINGsql\obj\Debug\netcoreapp3.1\ExerciciosLINGsql.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Desktop\Projetos C#\ExerciciosLINGsql\ExerciciosLINGsql\obj\Debug\netcoreapp3.1\ExerciciosLINGsql.dll
+C:\Users\alexb\Desktop\Projetos C#\ExerciciosLINGsql\ExerciciosLINGsql\obj\Debug\netcoreapp3.1\ExerciciosLINGsql.pdb
+C:\Users\alexb\Desktop\Projetos C#\ExerciciosLINGsql\ExerciciosLINGsql\obj\Debug\netcoreapp3.1\ExerciciosLINGsql.genruntimeconfig.cache

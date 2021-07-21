@@ -1,0 +1,5 @@
+Maria, maria@gmail.com, 2200.00
+Alex, alex@hotmail.com, 3900.00
+Marco, marco@gmail.com, 1900.00
+Bob, bob@outlook.com.br, 3000.00
+Guylherme, guydao@gmail.com, 2800.00
